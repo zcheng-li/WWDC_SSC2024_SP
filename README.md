@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="SSC2024_Social_Static_16x9" src="https://github.com/user-attachments/assets/389bd2c7-93e3-4541-81a3-83843c367905" />
+
 # WWDC SSC 24 ACCEPTED 🎉
 This app was developed for the Apple Swift Student Challenge as a 3-minute demo showcasing a hands-free interactive experience.
 
@@ -21,3 +23,4 @@ Built upon this new functionality, the app presents an intuitive game interface 
 ## Others
 
 Some images of puppet were made based on pictures shot by myself in the Museum of Wang Pi Yeng in Sichuan, China.
+
